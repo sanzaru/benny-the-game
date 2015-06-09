@@ -1,0 +1,1 @@
+Benny, my unfinished first approach to C++ and maybe the worst code ever seen, is alive again - thanks to Rasco (http://youtube.com/sirrascor), who found this early code on a DVD backup.
